@@ -8,4 +8,5 @@
     <li>Jetstram</li>
     <li>Files Upload</li>
     <li>http://radiant-dusk-06695.herokuapp.com/  (uploaded image may not work due to heroku)</li>
+    <li>email:test@gmail.com  password:password</li>
 </ul>
